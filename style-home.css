@@ -1,0 +1,62 @@
+
+.titulo-principal{
+
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+
+    text-align: center;
+}
+
+p{
+
+    text-align: center;
+
+}
+
+ em strong{
+
+    color: red;
+}
+/*codigo hexadecimal; alfabetos a - z numeros 0-9, binarios 0,1; la combinarion de num 0-9 y alfabetos A-F conforman el codigo hexadecimal*/
+ 
+#mision{
+
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+
+.items{
+
+    font-style: italic
+    ;
+}
+
+ul{
+
+    display: inline-block;/*permite ajustar los item de manera que no ocupen todo el ancho del body*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+
+    width: 50%;
+}
